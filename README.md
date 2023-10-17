@@ -1,6 +1,6 @@
 # Marketplace de NFT integrado con Metamask
 
-##Integrantes:
+## Integrantes:
 - Elliott Victoria
 - Franciosi Ignacio
 - Havenstein Carolina
